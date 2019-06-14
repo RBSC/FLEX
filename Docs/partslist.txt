@@ -1,0 +1,27 @@
+--------------------------------------------
+MSX FLEX Slot Extender v1.1
+Copyright (c) 2019 RBSC
+--------------------------------------------
+
+Partslist
+---------
+
+- 50 pin cartridge slot, right angle pins - 1
+	https://www.ebay.com/itm/5pc-Industrial-Card-Edge-Slot-Socket-Connector-25x2P-50P-2-54mm-0-1-Right-Angle/130970278382
+
+- Flat ribbon straight pin solderable FD connectors, 50 wires - 2
+	https://www.aliexpress.com/item/50-pcs-DIP-Plug-FD-Connector-0-10-2-54mm-Pitch-6-8-10-12-14/32910219367.html
+
+- Around 30cm of 50-wire flat ribbon cable
+	https://www.aliexpress.com/item/2m-lot-Rainbow-Ribbon-Cable-10P-14P-16P-20P-26P-34P-40P-50P-Flat-Color-Wire/32877970218.html
+
+- 50-pin dual row male pin header connector - 1
+	https://www.aliexpress.com/item/2-54mm-Double-Row-Right-angle-Male-Breakaway-PCB-Board-Pin-Header-Connector-Pinheader-2-3/32962410687.html
+
+- 50-pin IDC socket connectors - 2
+	https://www.aliexpress.com/item/10PCS-FC-50P-2x25Pin-Dual-Row-Pitch-2-54mm-IDC-Socket-Connector-Female-Header-50-pin/32793771498.html
+
+- SMD ceramic capacitors 0805, 100nF - 3
+
+- SMD resistors 0805, 100 Ohm - 16
+
