@@ -110,9 +110,10 @@ IMPORTANT!
 
 The RBSC provides all the files and information for free, without any liability (see the disclaimer.txt file). The provided
 information, software or hardware must not be used for commercial purposes unless permitted by the RBSC. Producing a small
-amount of bare boards for personal projects and selling the rest of the batch is allowed without the permission of RBSC.
+amount of boards for personal projects and selling the rest of the batch is allowed without the permission of RBSC. Printing
+of cases is allowed without limitation.
 
-When the sources of the tools are used to create alternative projects, please always mention the original source and the
+When the boards and 3D models are used to create alternative projects, please always mention the original source and the
 copyright!
 
 
